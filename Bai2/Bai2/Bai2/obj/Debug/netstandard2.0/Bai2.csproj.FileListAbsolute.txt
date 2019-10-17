@@ -1,0 +1,12 @@
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.deps.json
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.dll
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.pdb
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.csprojAssemblyReference.cache
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.csproj.CoreCompileInputs.cache
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.AssemblyInfoInputs.cache
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.AssemblyInfo.cs
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.dll
+D:\Courses\xamarin_projects\BTTH2\Bai2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.pdb
